@@ -1,0 +1,12 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here! I've learned to build a HTML document, to make lists, add images, hyperlinks and to create a web page like mockup.
+Most of the things are easy, but  the developer must be very careful and always "think twice", not to be in a rush.
+Those relative paths.... I'm going to need some extra time. 
+The problem solving strategies - Them tree method was very helpful. So I tried, I used the Mozilla MDN web docs, and I search in the forums if I'm really stuck, but I prefer to do it myself, before seeing someoneelse's work.
